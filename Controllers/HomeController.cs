@@ -20,6 +20,7 @@ namespace LeaveManagementProject.Controllers
 
         public IActionResult Privacy()
         {
+           
             return View();
         }
 
